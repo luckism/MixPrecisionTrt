@@ -30,6 +30,11 @@ Conda
 git clone https://github.com.cnpmjs.org/ultralytics/yolov5.git #下载yolov5
 ```
 
+下载calibration.cache在model_save文件夹下
+链接：https://pan.baidu.com/s/1UvK6jRrqUy33eZ-RKEZ2EA 
+提取码：0zc3 
+复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V2的分享
+
 2.1 yolov5s检测图形结果
 
 
