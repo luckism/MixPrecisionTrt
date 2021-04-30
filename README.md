@@ -1,4 +1,4 @@
-# MixPrecisionTrt  
+# MixPrecisionTrt  TRT2021
 
 
 
@@ -18,8 +18,14 @@ python3.8（使用其他版本可能会出现问题）
 
 Conda
 
-## 二. 准备训练好的pytorch-yolov5模型,保存到model_save目录下       
+## 二. 准备训练好的pytorch-yolov5模型,保存到model_save目录下
 
+可使用的pt模型
+链接：https://pan.baidu.com/s/1uE8UimOupdPuKB3o2-AFgw 
+提取码：qftf 
+复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V2的分享
+
+或者自己下载yolov5训练
 ```
 git clone https://github.com.cnpmjs.org/ultralytics/yolov5.git #下载yolov5
 ```
